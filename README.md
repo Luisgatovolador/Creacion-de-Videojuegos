@@ -13,7 +13,7 @@
 
 **Tutoriales incluidos:**
 
-1. [**El Control del Jugador**](./tutoriales/control-del-jugador)  
+1. [**El Control del Jugador**](https://docs.google.com/document/d/1GqfgQTksLk3Rhf_INSn8aV_M8sbDctXSHwTa4Ev8JZQ/edit?usp=sharing)  
 2. [**Jugabilidad Básica**](./tutoriales/jugabilidad-basica)  
 3. [**Sonidos y Efectos**](./tutoriales/sonidos-y-efectos)  
 4. [**Interfaz de Usuario (UI)**](./tutoriales/ui)  
@@ -25,7 +25,7 @@
 **Ejercicios Prácticos incluidos:**
 
 - [**Ejercicio Práctico 01**](./ejercicios/ejercicio-01)  
-- [**Ejercicio Práctico 02**](./ejercicios/ejercicio-02)  
+- [**Ejercicio Práctico 02**]
 
 ---
 
