@@ -4,6 +4,7 @@
 **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
 **Materia:** Creación de Videojuegos  
 **Profesor:** Gabriel Barrón Rodríguez
+
 **Autor:** Luís Rodríguez  
 **Grupo:** GIDS5103
 
