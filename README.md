@@ -1,9 +1,9 @@
 # Creación de Videojuegos
 
-**Universidad:** Universidad Tecnológica de Norte de Guanajuato
-**Carrera:** Ingeniería en Desarrollo y Gestión de Software  
-**Materia:** Creación de Videojuegos
-**Profesor:** Gabriel Barrón Rodríguez
+- **Universidad:** Universidad Tecnológica de Norte de Guanajuato
+- **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
+- **Materia:** Creación de Videojuegos
+- **Profesor:** Gabriel Barrón Rodríguez
 
 **Autor:** Rodríguez Lopez Luis Oswaldo 
 **Grupo:** GIDS5103
