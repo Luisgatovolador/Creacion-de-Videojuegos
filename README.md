@@ -8,19 +8,11 @@
 
 **Lecciones incluidas:**
 
-| Nº | Título del tutorial | Objetivo principal | Resultado esperado |
-|----|----------------------|--------------------|--------------------|
-| 1 | **El Control del Jugador** | Aprender a controlar un personaje mediante teclado y cámara. | Jugador con movimiento fluido, cámara en tercera persona. |
-| 2 | **Jugabilidad Básica** | Aplicar interacciones, obstáculos y puntuación. | Juego funcional con colisiones y detección de eventos. |
-| 3 | **Sonidos y Efectos** | Integrar audio y partículas para mejorar la retroalimentación visual. | Efectos de sonido y partículas activos al realizar acciones. |
-| 5 | **Interfaz de Usuario (UI)** | Crear HUD, menús y pantallas interactivas. | Menú funcional y marcador visible durante el juego. |
+1  **El Control del Jugador** 
+2 **Jugabilidad Básica**
+3 **Sonidos y Efectos** 
+5 **Interfaz de Usuario (UI)** 
 
-**Evidencias:**
-- Capturas y GIFs del funcionamiento.  
-- Scripts comentados dentro de `/SourceCode/`.  
-- Descripción paso a paso en cada `Readme-Leccion.md`.
-
----
 
 ## Actividad 2 — Videojuego Resultado
 
