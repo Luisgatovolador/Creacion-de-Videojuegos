@@ -4,9 +4,8 @@
 - **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
 - **Materia:** Creación de Videojuegos
 - **Profesor:** Gabriel Barrón Rodríguez
-
-**Autor:** Rodríguez Lopez Luis Oswaldo 
-**Grupo:** GIDS5103
+- **Autor:** Rodríguez Lopez Luis Oswaldo 
+- **Grupo:** GIDS5103
 
 ---
 
