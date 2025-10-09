@@ -1,6 +1,6 @@
 # Creación-de-Videojuegos
 
-**Autor:** Luís Rodríguez  
+**Autor:** Rodríguez López Luis Oswaldo   
 
 ---
 
