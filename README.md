@@ -5,7 +5,7 @@
 **Materia:** Creación de Videojuegos
 **Profesor:** Gabriel Barrón Rodríguez
 
-**Autor:** Luís Rodríguez  
+**Autor:** Rodríguez Lopez Luis Oswaldo 
 **Grupo:** GIDS5103
 
 ---
@@ -31,9 +31,5 @@
 ---
 
 **Descripción:**  
-Este repositorio forma parte del portafolio académico personal de **Luís Rodríguez**, donde se documentan los tutoriales y ejercicios prácticos realizados en la materia *Creación de Videojuegos*.  
-Aquí se reflejan las competencias adquiridas en diseño, control del jugador, implementación de UI, integración de sonidos y mecánicas básicas de jugabilidad.
+Este repositorio forma parte del portafolio académico personal de **Rodríguez Lopez Luis Oswaldo**, donde se documentan los tutoriales y ejercicios prácticos realizados en la materia
 
----
-
-🕹️ *Portafolio académico - Proyecto educativo 2025*
