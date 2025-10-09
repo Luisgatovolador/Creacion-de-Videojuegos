@@ -1,11 +1,11 @@
 # Creación de Videojuegos
 
-**Universidad:** Universidad Tecnológica de [Tu Ciudad o Estado]  
+**Universidad:** Universidad Tecnológica de Norte de Guanajuato
 **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
 **Materia:** Creación de Videojuegos  
-**Profesor:** [Nombre del profesor, si quieres agregarlo]  
+**Profesor:** Gabriel Barrón Rodríguez
 **Autor:** Luís Rodríguez  
-**Año:** 2025  
+**Grupo:** GIDS5103
 
 ---
 
