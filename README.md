@@ -13,10 +13,10 @@
 
 | Nombre del Tutorial         | Estado      | Ruta del README |
 |-----------------------------|--------------|-----------------|
-| El Control del Jugador      | Completado | [Ver README](./tutoriales/control-jugador/README.md) |
-| Jugabilidad Básica          | En progreso | [Ver README](./tutoriales/jugabilidad-basica/README.md) |
-| Sonidos y Efectos           | Pendiente | [Ver README](./tutoriales/sonidos-efectos/README.md) |
-| Interfaz de Usuario (UI)    | Pendiente | [Ver README](./tutoriales/ui/README.md) |
+| El Control del Jugador      | Completado | [Ver README]([./tutoriales/control-jugador/README.md](https://docs.google.com/document/d/1GqfgQTksLk3Rhf_INSn8aV_M8sbDctXSHwTa4Ev8JZQ/edit?tab=t.0#heading=h.e8u3uikyikz)) |
+| Jugabilidad Básica          | En Pendiente |  |
+| Sonidos y Efectos           | Pendiente |  |
+| Interfaz de Usuario (UI)    | Pendiente |  |
 
 ---
 
@@ -24,8 +24,9 @@
 
 | Nombre del Ejercicio        | Estado       | Ruta del README |
 |-----------------------------|--------------|-----------------|
-| Ejercicio Práctico 01       | Completado | [Ver README](./ejercicios/ejercicio-01/README.md) |
-| Ejercicio Práctico 02       | Pendiente | [Ver README](./ejercicios/ejercicio-02/README.md) |
+| Ejercicio Práctico 01       | Pendiente | Falta realizar en asesoria |
+| Ejercicio Práctico 02       | Completado |Realizado en clase |
+| Ejercicio Práctico 03      | Completado |Realizado en clase |
 
 ---
 
