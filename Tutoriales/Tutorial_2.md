@@ -10,7 +10,7 @@
 ---
 
 ## Índice  
-
+- [Video Funcionamiento](#video-funcionamiento)
 - [Lección 2.1: Posición del jugador](#lección-21-posición-del-jugador)
   - [2.1 ¿Cómo crear un proyecto nuevo para el prototipo 2?](#21cómo-crear-un-proyecto-nuevo-para-el-prototipo-2)
   - [2.2 ¿Cómo añadir al jugador, los animales y la comida?](#22cómo-añadir-al-jugador-los-animales-y-la-comida)
@@ -40,6 +40,7 @@
   - [2.4.5 Desencadena un mensaje de Game Over](#245-desencadena-un-mensaje-de-game-over)
 
 ---
+## Video Funcionamiento
 
 ## Lección 2.1: Posición del jugador  
 
