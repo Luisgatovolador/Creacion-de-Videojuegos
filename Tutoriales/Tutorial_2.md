@@ -126,8 +126,18 @@
 ## Lección 2.4: Decisiones de colisiones  
 
 ### 2.4.1 Haz un nuevo método para generar animales  
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/7dea4b28-f02f-42e1-8a20-81a065b658c2" />
+
 ### 2.4.2 Genera animales en intervalos de tiempo  
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/e43a1516-cc08-4b0a-99af-3f21862231eb" />
+
 ### 2.4.3 Agrega un componente Collider y Trigger  
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/edfb133d-e187-4caf-a83c-8337802bf17b" />
+
 ### 2.4.4 Destruye objetos al colisionar  
-### 2.4.5 Desencadena un mensaje de «Game Over»  
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/6f707726-0419-4a16-a8c0-48a81ecc2aba" />
+
+### 2.4.5 Desencadena un mensaje de «Game Over» 
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/998895bf-43cf-4539-bf63-5277bddb3040" />
+
 
