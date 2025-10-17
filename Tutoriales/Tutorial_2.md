@@ -2,7 +2,7 @@
 
 ## 2.1.¿Cómo crear un proyecto nuevo para el prototipo 2?
 
-
+![1760713027519](image/Tutorial_2/1760713027519.png)
 
 ## 2.2.¿Cómo añadir al jugador, los animales y la comida?
 
