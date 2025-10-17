@@ -41,7 +41,7 @@
 
 ---
 
-## 🎯 Lección 2.1: Posición del jugador  
+## Lección 2.1: Posición del jugador  
 
 ### 2.1 ¿Cómo crear un proyecto nuevo para el prototipo 2?  
 <img width="1919" height="1079" alt="Captura de pantalla 2025-10-17 085700" src="https://github.com/user-attachments/assets/34d93ee4-7be1-4568-b49b-f87ac8abee24" />
@@ -76,25 +76,50 @@
 
 ---
 
-## 🚀 Lección 2.2: Comida voladora  
+## Lección 2.2: Comida voladora  
 
-### 2.2.1 ¿Cómo hacer que el proyectil vuele hacia adelante?  
+### 2.2.1 ¿Cómo hacer que el proyectil vuele hacia adelante? 
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/a386222e-3a0d-4006-af82-3288ce3035dc" />
+
 ### 2.2.2 ¿Cómo convertir el proyectil en un Prefab?  
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/e3d95c6f-84ce-4fc3-bb9e-87ed838d311c" />
+
 ### 2.2.3 ¿Cómo probar la pulsación de la barra espaciadora?  
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/f6f8292a-7467-46dd-b209-ab114fd8d358" />
+
 ### 2.2.4 ¿Cómo lanzar un proyectil cuando se pulsa la barra espaciadora?  
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/5458edb1-6652-4f90-89bf-3528677bb6ef" />
+
+
 ### 2.2.5 ¿Cómo convertir los animales en Prefabs?  
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/e0ade697-1387-407d-bfdb-67c85f0b1f9c" />
+
 ### 2.2.6 ¿Cómo destruir los proyectiles fuera de la pantalla?  
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/5cf95799-fbeb-474c-ad0c-c977a11c18a5" />
+
 ### 2.2.7 ¿Cómo destruir los animales fuera de la pantalla?  
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/d83ed791-b3fe-4066-9600-5ac565c3c690" />
+
 
 ---
 
 ## Lección 2.3: Estampida de animales aleatorios  
 
 ### 2.3.1 Crea un gestor de generación  
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/9179aadb-13f7-4622-a76a-92a1ac2b2355" />
+
 ### 2.3.2 Genera un animal cuando se pulsa la tecla S  
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/54465219-a5bd-4445-86ad-28dfd797576d" />
+
 ### 2.3.3 Generar animales aleatorios desde el arreglo  
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/359696ac-189e-411e-9e52-3c4327877706" />
+
 ### 2.3.4 Establece al azar la ubicación de la generación  
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/7f0e4f71-68c7-4c79-867f-37c8ea65bd3f" />
+
 ### 2.3.5 Cambia la perspectiva de la cámara  
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/89a5245c-3517-4f13-b29f-21f7df3a4562" />
+
 
 ---
 
