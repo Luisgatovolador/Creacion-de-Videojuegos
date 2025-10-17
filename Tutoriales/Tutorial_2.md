@@ -42,6 +42,11 @@
 ---
 ## Video Funcionamiento
 
+
+https://github.com/user-attachments/assets/575415ab-3c81-4926-a0e4-fab88b644480
+
+
+
 ## Lección 2.1: Posición del jugador  
 
 ### 2.1 ¿Cómo crear un proyecto nuevo para el prototipo 2?  
