@@ -9,6 +9,8 @@
 
 ---
 
+<img width="800" height="400" alt="Unity" src="https://github.com/user-attachments/assets/edaf48fa-c9b8-4349-a3ba-1304711b32c7" />
+
 ## Ejecución de Tutoriales
 
 | Nombre del Tutorial         | Estado      | Ruta del README |
