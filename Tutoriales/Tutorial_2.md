@@ -42,7 +42,7 @@
 ---
 ## Video Funcionamiento
 
-
+### Abrir para reproducir: 
 https://github.com/user-attachments/assets/575415ab-3c81-4926-a0e4-fab88b644480
 
 
