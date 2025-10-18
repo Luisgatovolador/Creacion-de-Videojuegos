@@ -60,14 +60,31 @@
 ## Lección 3.1: Fuerza de salto
 
 ### 3.1.1. ¿Cómo abrir el prototipo y cambiar el fondo?  
-### 3.1.2. ¿Cómo elegir y configurar un personaje jugador?  
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/f8780073-b278-46b0-98f5-efffc5a725cc" />
+
+### 3.1.2. ¿Cómo elegir y configurar un personaje jugador? 
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/de384b43-50fc-4cb6-aa8f-31c5658bb19b" />
+
 ### 3.1.3. ¿Cómo hacer que el jugador salte al inicio?  
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/9547258f-b3ae-4d6b-ac2b-41cdac5f6812" />
+
 ### 3.1.4. ¿Cómo hacer que el jugador salte si se presiona la barra espaciadora?  
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/1d87aebd-f050-46e3-82c1-8b524ee0a136" />
+
 ### 3.1.5. ¿Cómo corregir la fuerza y la gravedad del salto?  
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/4d98c8ec-05c6-40be-aee7-9ce89a4a47bf" />
+
 ### 3.1.6. ¿Cómo evitar que el jugador realice saltos dobles?  
-### 3.1.7. ¿Cómo crear un obstáculo y moverlo a la izquierda?  
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/51392759-1bb9-4a2a-b7f1-6c86bfca33db" />
+
+### 3.1.7. ¿Cómo crear un obstáculo y moverlo a la izquierda? 
+<img width="1917" height="1019" alt="image" src="https://github.com/user-attachments/assets/5e886b44-8ee6-416f-8551-c1840417cb8a" />
+
 ### 3.1.8. ¿Cómo crear un Spawn Manager?  
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/6b2cdb01-bf52-48e6-95d7-c05521be4f2c" />
+
 ### 3.1.9. ¿Cómo generar obstáculos a intervalos?  
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/3d00f1f4-ff93-48ff-bda6-75aa7630b586" />
 
 ---
 
