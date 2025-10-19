@@ -1,4 +1,4 @@
-<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/db9a694e-e719-4491-b8ce-7d502049eecc" /># Creación de Videojuegos — Tutorial 3
+# Creación de Videojuegos — Tutorial 3
 
 > **Universidad Tecnológica del Norte de Guanajuato**  
 > **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
@@ -53,6 +53,10 @@
 ## Video Funcionamiento
 
 ### Abrir para reproducir:  
+
+
+
+https://github.com/user-attachments/assets/bd2485a5-d0a2-4b6a-a895-fd4ff19eafe9
 
 
 ---
