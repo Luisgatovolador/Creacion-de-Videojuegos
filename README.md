@@ -18,7 +18,7 @@
 | El Control del Jugador      | Completado | [Ver enlace archivo](https://docs.google.com/document/d/1GqfgQTksLk3Rhf_INSn8aV_M8sbDctXSHwTa4Ev8JZQ/edit?usp=sharing) |
 | Jugabilidad Básica          | Completado | [Ver enlace archivo](./Tutoriales/Tutorial_2.md) |
 | Sonidos y Efectos           | Completado | [Ver enlace archivo](./Tutoriales/Tutorial_3.md)  |
-| Interfaz de Usuario (UI)    | En proceso |  |
+| Interfaz de Usuario (UI)    | Completado | [Ver enlace archivo](./Tutoriales/Tutorial_4.md)  |
 
 ---
 
