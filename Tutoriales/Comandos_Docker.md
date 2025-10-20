@@ -305,7 +305,3 @@ docker service ls
 
 ---
 
-```
-
-¿Quieres que te lo prepare con un encabezado tipo “banner” o color (para GitHub, por ejemplo con bloques destacados y emojis decorativos)? Puedo generarte una versión más visual también.
-```
