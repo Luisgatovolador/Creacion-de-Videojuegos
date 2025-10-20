@@ -59,9 +59,17 @@
 ## Lección 5.1: ¿Cómo destruir con un clic?
 
 ### 5.1.1. ¿Cómo crear un proyecto y cambiar la vista a 2D?  
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/fbe42daa-550e-4c6b-88cf-15a1dfc4bd77" />
+
 ### 5.1.2. ¿Cómo crear objetivos buenos y malos?  
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/2ee1918d-800c-4741-89db-9623225d0da4" />
+
 ### 5.1.3. ¿Cómo arrojar los objetos al aire de forma aleatoria?  
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/bfa71700-8620-483e-b61f-90f850c833fb" />
+
 ### 5.1.4. ¿Cómo cambiar el código complicado con nuevos métodos?  
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/8eff28b7-8d1a-45c8-b9a0-a43def702ac6" />
+
 ### 5.1.5. ¿Cómo crear una lista de objetos en Game Manager?  
 ### 5.1.6. ¿Cómo crear una corrutina para generar objetos?  
 ### 5.1.7. ¿Cómo destruir objetivos con clics y sensores?  
