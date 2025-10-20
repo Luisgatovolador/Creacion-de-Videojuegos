@@ -1,10 +1,12 @@
 
 # Lista de Comandos Docker
 
-**Autor:** 
-**Materia:** 
-**Tema:** 
-
+> **Universidad Tecnológica del Norte de Guanajuato**  
+> **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
+> **Materia:** Gestión del Proceso de Desarrollo de Software ING  
+> **Profesor:** Eric Domenzain Morales 
+> **Autor:** Rodríguez López Luis Oswaldo  
+> **Grupo:** GIDS5103  
 ---
 
 ## Índice
