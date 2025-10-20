@@ -1,3 +1,6 @@
+Perfecto ✅ Aquí tienes **todo el contenido unido en un solo bloque de código Markdown (.md)**, con todos los comandos en formato `shell`, listo para copiar y pegar directamente en tu archivo `.md` sin errores de formato:
+
+````markdown
 # 📘 Lista de Comandos Docker
 
 **Autor:** 1359  
@@ -8,39 +11,39 @@
 
 ## 📑 Índice
 
-1. [Docker Engine](#docker-engine)
-   - [Imágenes](#imágenes)
-   - [Contenedores](#contenedores)
-   - [Control de contenedores](#control-de-contenedores)
-   - [Logs y monitoreo](#logs-y-monitoreo)
-   - [Interacción con contenedores](#interacción-con-contenedores)
-   - [Limpieza](#limpieza)
-2. [Docker Compose](#docker-compose)
-3. [Docker Swarm](#docker-swarm)
-4. [Ejemplo de uso práctico](#ejemplo-de-uso-práctico)
+1. [Docker Engine](#🐋-docker-engine)
+   - [Imágenes](#🔹-imágenes)
+   - [Contenedores](#🔹-contenedores)
+   - [Control de contenedores](#🔹-control-de-contenedores)
+   - [Logs y monitoreo](#🔹-logs-y-monitoreo)
+   - [Interacción con contenedores](#🔹-interacción-con-contenedores)
+   - [Limpieza](#🔹-limpieza)
+2. [Docker Compose](#⚙️-docker-compose)
+3. [Docker Swarm](#🌐-docker-swarm)
+4. [Ejemplo de uso práctico](#🧹-ejemplo-de-uso-práctico)
 
 ---
 
 ## 🐋 Docker Engine
 
 ### 🔹 Imágenes
-```shell```
+```shell
 # Lista todas las imágenes descargadas en tu sistema
-```docker images```
+docker images
 
 # Descarga una imagen desde Docker Hub
-```
 docker pull <imagen>
-```
+
 # Elimina una imagen del sistema
 docker rmi <id_imagen>
 
 # Busca imágenes en Docker Hub
 docker search <nombre>
+````
 
+### 🔹 Contenedores
 
-
-🔹 Contenedores
+```shell
 # Muestra los contenedores en ejecución
 docker ps
 
@@ -58,10 +61,11 @@ docker run -d -p <puerto_host>:<puerto_contenedor> <imagen>
 
 # Crea un contenedor con un nombre específico
 docker run --name <nombre_contenedor> <imagen>
+```
 
+### 🔹 Control de contenedores
 
-
-🔹 Control de contenedores
+```shell
 # Inicia un contenedor detenido
 docker start <id_contenedor>
 
@@ -76,8 +80,11 @@ docker rm <id_contenedor>
 
 # Elimina todos los contenedores detenidos
 docker container prune
+```
 
-🔹 Logs y monitoreo
+### 🔹 Logs y monitoreo
+
+```shell
 # Muestra los logs de un contenedor
 docker logs <id_contenedor>
 
@@ -89,15 +96,21 @@ docker inspect <id_contenedor>
 
 # Muestra estadísticas de uso de recursos (CPU, RAM, etc.)
 docker stats
+```
 
-🔹 Interacción con contenedores
+### 🔹 Interacción con contenedores
+
+```shell
 # Abre una terminal dentro del contenedor
 docker exec -it <id_contenedor> /bin/bash
 
 # Ejecuta un comando dentro del contenedor
 docker exec -it <id_contenedor> <comando>
+```
 
-🔹 Limpieza
+### 🔹 Limpieza
+
+```shell
 # Elimina imágenes no utilizadas
 docker image prune
 
@@ -106,9 +119,13 @@ docker system prune
 
 # Elimina todos los recursos no utilizados, incluyendo imágenes no asociadas
 docker system prune --all
+```
 
-⚙️ Docker Compose
+---
 
+## ⚙️ Docker Compose
+
+```shell
 # Construye e inicia los servicios definidos en compose.yml
 docker compose up
 
@@ -132,8 +149,13 @@ docker compose stop
 
 # Reinicia los servicios
 docker compose restart
+```
 
-🌐 Docker Swarm
+---
+
+## 🌐 Docker Swarm
+
+```shell
 # Inicializa un nuevo clúster Swarm en el nodo actual
 docker swarm init
 
@@ -151,10 +173,13 @@ docker stack ps <nombre_stack>
 
 # Muestra información general del sistema, incluyendo estado del Swarm
 docker info
+```
 
+---
 
-🧹 Ejemplo de uso práctico
+## 🧹 Ejemplo de uso práctico
 
+```shell
 # Eliminar contenedores e imágenes no usados
 docker system prune --all
 
@@ -163,19 +188,11 @@ docker stack deploy -c swarm.yml billing
 
 # Revisar servicios activos
 docker service ls
-
+```
 
 ---
 
-¿Quieres que te lo formatee además con emojis o estilos visuales (por ejemplo, 🧱⚙️🐳 en los títulos) para hacerlo más atractivo al entregar? Puedo darte una versión “estética” del `.md` lista para subir a GitHub o entregar al profesor.
+```
 
-
-
-
-
-
-
-
-
-
-
+¿Quieres que te lo deje con un encabezado visual tipo banner (por ejemplo con `🐳 Docker Commands Cheatsheet` en ASCII o con color azul Markdown estilo presentación)? Puedo darte una versión más estética lista para GitHub también.
+```
