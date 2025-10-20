@@ -1,33 +1,30 @@
-Perfecto ✅ Aquí tienes **todo en un solo bloque de Markdown (.md)**, con **cada comando encerrado individualmente en su propio bloque `shell`**, para que puedas **copiarlo directamente línea por línea desde GitHub o VSCode**.
-Listo para pegar en tu archivo `comandos-docker.md`:
 
-````markdown
-# 📘 Lista de Comandos Docker
+# Lista de Comandos Docker
 
-**Autor:** 1359  
-**Materia:** DevOps  
-**Tema:** Comandos Docker (Engine, Compose y Swarm)
+**Autor:** 
+**Materia:** 
+**Tema:** 
 
 ---
 
-## 📑 Índice
+## Índice
 
-1. [Docker Engine](#🐋-docker-engine)
-   - [Imágenes](#🔹-imágenes)
-   - [Contenedores](#🔹-contenedores)
-   - [Control de contenedores](#🔹-control-de-contenedores)
-   - [Logs y monitoreo](#🔹-logs-y-monitoreo)
-   - [Interacción con contenedores](#🔹-interacción-con-contenedores)
-   - [Limpieza](#🔹-limpieza)
-2. [Docker Compose](#⚙️-docker-compose)
-3. [Docker Swarm](#🌐-docker-swarm)
-4. [Ejemplo de uso práctico](#🧹-ejemplo-de-uso-práctico)
+1. [Docker Engine](#docker-engine)
+   - [Imágenes](#imágenes)
+   - [Contenedores](#contenedores)
+   - [Control de contenedores](#control-de-contenedores)
+   - [Logs y monitoreo](#logs-y-monitoreo)
+   - [Interacción con contenedores](#interacción-con-contenedores)
+   - [Limpieza](#limpieza)
+2. [Docker Compose](#docker-compose)
+3. [Docker Swarm](#docker-swarm)
+4. [Ejemplo de uso práctico](#ejemplo-de-uso-práctico)
 
 ---
 
-## 🐋 Docker Engine
+## Docker Engine
 
-### 🔹 Imágenes
+### Imágenes
 
 **Lista todas las imágenes descargadas en tu sistema**
 ```shell
@@ -128,7 +125,7 @@ docker container prune
 
 ---
 
-### 🔹 Logs y monitoreo
+### Logs y monitoreo
 
 **Muestra los logs de un contenedor**
 
@@ -156,7 +153,7 @@ docker stats
 
 ---
 
-### 🔹 Interacción con contenedores
+### Interacción con contenedores
 
 **Abre una terminal dentro del contenedor**
 
@@ -172,7 +169,7 @@ docker exec -it <id_contenedor> <comando>
 
 ---
 
-### 🔹 Limpieza
+### Limpieza
 
 **Elimina imágenes no utilizadas**
 
@@ -194,7 +191,7 @@ docker system prune --all
 
 ---
 
-## ⚙️ Docker Compose
+## Docker Compose
 
 **Construye e inicia los servicios definidos en compose.yml**
 
@@ -246,7 +243,7 @@ docker compose restart
 
 ---
 
-## 🌐 Docker Swarm
+## ocker Swarm
 
 **Inicializa un nuevo clúster Swarm en el nodo actual**
 
@@ -286,7 +283,7 @@ docker info
 
 ---
 
-## 🧹 Ejemplo de uso práctico
+## Ejemplo de uso práctico
 
 **Eliminar contenedores e imágenes no usados**
 
