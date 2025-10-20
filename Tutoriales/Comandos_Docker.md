@@ -51,8 +51,8 @@ docker search <nombre>
 
 ---
 
-### 🔹 Contenedores
-
+### Contenedores
+         
 **Muestra los contenedores en ejecución**
 
 ```shell
@@ -91,7 +91,7 @@ docker run --name <nombre_contenedor> <imagen>
 
 ---
 
-### 🔹 Control de contenedores
+### Control de contenedores
 
 **Inicia un contenedor detenido**
 
@@ -243,7 +243,7 @@ docker compose restart
 
 ---
 
-## ocker Swarm
+## Docker Swarm
 
 **Inicializa un nuevo clúster Swarm en el nodo actual**
 
