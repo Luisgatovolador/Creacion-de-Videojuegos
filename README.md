@@ -30,6 +30,7 @@
 | Ejercicio Práctico 02       | Completado |Realizado en clase |
 | Ejercicio Práctico 03      | Completado |Realizado en clase |
 | Ejercicio Práctico 04      | Completado |Realizado en clase |
+| Ejercicio Práctico 05      | Completado |Realizado en clase |
 
 ---
 
