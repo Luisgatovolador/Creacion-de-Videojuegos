@@ -39,10 +39,10 @@
 
 | Nivel         | Nombre del Nivel             | Estado        | Ruta del README                                                    |
 | ------------- | ---------------------------- | ------------- | ------------------------------------------------------------------ |
-| **Propuesta** | **Propuesta del videojuego** | Finalizada    | [Ver enlace](https://docs.google.com/document/d/tu-link-propuesta) |
-| **1**         | **Bosque Inicial**           | Completado | [Ver enlace](https://docs.google.com/document/d/tu-link-nivel1)    |
-| **2**         | **Cañón de los Retos**       | En desarrollo | [Ver enlace](https://docs.google.com/document/d/tu-link-nivel2)    |
-| **3**         | **Santuario del Amanecer**   | En desarrollo | [Ver enlace](https://docs.google.com/document/d/tu-link-nivel3)    |
+| **Propuesta** | **Propuesta del videojuego** | Finalizada    | [Ver enlace](./Videojuego/propuesta.md) |
+| **1**         | **Bosque Inicial**           | Completado | [Ver enlace](./Videojuego/nivel1.md)    |
+| **2**         | **Cañón de los Retos**       | En desarrollo | [Ver enlace]()    |
+| **3**         | **Santuario del Amanecer**   | En desarrollo | [Ver enlace]()    |
 
 ---
 
