@@ -41,8 +41,8 @@
 | ------------- | ---------------------------- | ------------- | ------------------------------------------------------------------ |
 | **Propuesta** | **Propuesta del videojuego** | Finalizada    | [Ver enlace](./Videojuego/propuesta.md) |
 | **1**         | **Bosque Inicial**           | Completado | [Ver enlace](./Videojuego/nivel1.md)    |
-| **2**         | **Cañón de los Retos**       | En desarrollo | [Ver enlace]()    |
-| **3**         | **Santuario del Amanecer**   | En desarrollo | [Ver enlace]()    |
+| **2**         | **Cañón de los Retos**       | En desarrollo |     |
+| **3**         | **Santuario del Amanecer**   | En desarrollo |     |
 
 ---
 
