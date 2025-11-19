@@ -34,6 +34,18 @@
 
 ---
 
+
+## Niveles del Videojuego: *Semillas del Mañana*
+
+| Nivel         | Nombre del Nivel             | Estado        | Ruta del README                                                    |
+| ------------- | ---------------------------- | ------------- | ------------------------------------------------------------------ |
+| **Propuesta** | **Propuesta del videojuego** | Finalizada    | [Ver enlace](https://docs.google.com/document/d/tu-link-propuesta) |
+| **1**         | **Bosque Inicial**           | Completado | [Ver enlace](https://docs.google.com/document/d/tu-link-nivel1)    |
+| **2**         | **Cañón de los Retos**       | En desarrollo | [Ver enlace](https://docs.google.com/document/d/tu-link-nivel2)    |
+| **3**         | **Santuario del Amanecer**   | En desarrollo | [Ver enlace](https://docs.google.com/document/d/tu-link-nivel3)    |
+
+---
+
 ## Descripción  
 
 Este repositorio forma parte del portafolio académico personal de **Rodríguez López Luis Oswaldo**, donde se documentan los tutoriales y ejercicios prácticos realizados en la materia **Creación de Videojuegos**.
