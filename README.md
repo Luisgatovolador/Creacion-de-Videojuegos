@@ -50,9 +50,9 @@
 
 | Plataforma             | Estado                 | Enlace / Archivo Ejecutable                                                                                                                                      |
 | ---------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Windows**            | Ejecutable disponible  | [Descargar .exe](./Videojuego/SemillasDelManana.exe)                                                                                                    |
-| **Android**            | APK funcional          | [Descargar APK](./Videojuego/BuidAndroid.apk)                                                                                                     |
-| **Web**                | Versión en línea       | [Descargar .zip(Link 1)](./Videojuego/BuildWeb.zip) <br> [Jugar en el navegador (Link 2)](https://tusitio.com/semillas-del-manana/alterno) |
+| **Windows**            | Ejecutable disponible  | [Descargar .exe](./Videojuego)                                                                                                    |
+| **Android**            | APK funcional          | [Descargar APK](./Videojuego)                                                                                                     |
+| **Web**                | Versión en línea       | [Descargar .zip(Link 1)](./Videojuego) <br> [Jugar en el navegador (Link 2)](https://tusitio.com/semillas-del-manana/alterno) |
 | **Video demostración** | Vista previa del juego | [Ver video](https://tusitio.com/video-demostracion)                                                                                                              |
 
 
