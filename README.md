@@ -46,6 +46,16 @@
 
 ---
 
+## Ejecutables del Videojuego: *Semillas del Mañana*
+
+| Plataforma             | Estado                 | Enlace / Archivo Ejecutable                                                                                                                                      |
+| ---------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Windows**            | Ejecutable disponible  | [Descargar .exe](./Videojuego)                                                                                                    |
+| **Android**            | APK funcional          | [Descargar APK](./Videojuego)                                                                                                     |
+| **Web**                | Versión en línea       | [Descargar .zip(Link 1)](./Videojuego) <br> [Jugar en el navegador (Link 2)](https://tusitio.com/semillas-del-manana/alterno) |
+| **Video demostración** | Vista previa del juego | [Ver video](https://luisgatovolador.itch.io/semillas-del-maana)                                                                                                              |
+
+
 ## Descripción  
 
 Este repositorio forma parte del portafolio académico personal de **Rodríguez López Luis Oswaldo**, donde se documentan los tutoriales y ejercicios prácticos realizados en la materia **Creación de Videojuegos**.
