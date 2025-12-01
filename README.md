@@ -56,6 +56,6 @@
 | **Video demostración** | Vista previa del juego | [Ver video](https://drive.google.com/file/d/160fpcqlqvyrosIqZEMW6YhCEFj0zmDOa/view?usp=sharing)                                                                                                              |
 
 
-## Descripción  https://drive.google.com/file/d/160fpcqlqvyrosIqZEMW6YhCEFj0zmDOa/view?usp=sharing
+## Descripción  
 
 Este repositorio forma parte del portafolio académico personal de **Rodríguez López Luis Oswaldo**, donde se documentan los tutoriales y ejercicios prácticos realizados en la materia **Creación de Videojuegos**.
