@@ -53,9 +53,9 @@
 | **Windows**            | Ejecutable disponible  | [Descargar .exe](./Ejecutables)                                                                                                    |
 | **Android**            | APK funcional          | [Descargar APK](./Ejecutables)                                                                                                     |
 | **Web**                | Versión en línea       | [Descargar .zip(Link 1)](./Ejecutables) <br> [Jugar en el navegador (Link 2)](https://tusitio.com/semillas-del-manana/alterno) |
-| **Video demostración** | Vista previa del juego | [Ver video](https://luisgatovolador.itch.io/semillas-del-maana)                                                                                                              |
+| **Video demostración** | Vista previa del juego | [Ver video](https://drive.google.com/file/d/160fpcqlqvyrosIqZEMW6YhCEFj0zmDOa/view?usp=sharing)                                                                                                              |
 
 
-## Descripción  
+## Descripción  https://drive.google.com/file/d/160fpcqlqvyrosIqZEMW6YhCEFj0zmDOa/view?usp=sharing
 
 Este repositorio forma parte del portafolio académico personal de **Rodríguez López Luis Oswaldo**, donde se documentan los tutoriales y ejercicios prácticos realizados en la materia **Creación de Videojuegos**.
