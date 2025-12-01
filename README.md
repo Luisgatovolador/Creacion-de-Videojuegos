@@ -41,8 +41,8 @@
 | ------------- | ---------------------------- | ------------- | ------------------------------------------------------------------ |
 | **Propuesta** | **Propuesta del videojuego** | Finalizada    | [Ver enlace](./Videojuego/propuesta.md) |
 | **1**         | **Playa Inicial**           | Completado | [Ver enlace](./Videojuego/nivel1.md)    |
-| **2**         | **Bosque**       | En desarrollo |     |
-| **3**         | **Montaña**   | En desarrollo |     |
+| **2**         | **Bosque**       | Completado | Completado    |
+| **3**         | **Montaña**   | Completado |   Completado  |
 
 ---
 
